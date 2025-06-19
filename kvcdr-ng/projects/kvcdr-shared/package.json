@@ -1,5 +1,5 @@
 {
-  "name": "kvcdr-shared",
+  "name": "@kvcdr/shared",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^15.2.0",
